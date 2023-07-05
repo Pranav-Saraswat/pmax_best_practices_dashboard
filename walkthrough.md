@@ -149,7 +149,7 @@ Make sure to have your developer token and MCC ID on hand, in addition to the re
 When prompted, choose N to enter credentials one by one.
 
 ```bash
-npm init gaarf-wf@latest -- --answers=answers.json\n
+npm init gaarf-wf@latest -- --answers=answers.json
 ```
 
 
